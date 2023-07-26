@@ -48,9 +48,7 @@ function addItem(e){
       var editBtnClone = editButton.cloneNode(true);
 
       // Append the "Edit" button to the current listed item
-      newcls[i].appendChild(editBtnClone);
-
-     
+      newcls[i].appendChild(editBtnClone);     
     }
 
     
